@@ -1,0 +1,3 @@
+- **Une participation gratuite et active.** Chaque personne est invitée à préparer une contribution, par exemple la lecture et la présentation d’un article.
+- **Plusieurs formes de contribution.** Il est aussi possible de présenter un travail personnel ou une analyse du recours aux outils d’IA dans la recherche sur les systèmes complexes.
+- **Des échanges autour des présentations.** Les temps de discussion font partie du programme. Les modalités détaillées figurent sur la page du programme provisoire.
